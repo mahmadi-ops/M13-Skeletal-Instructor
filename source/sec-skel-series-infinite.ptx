@@ -594,9 +594,6 @@ diverges, show that it does.
 
 <p>
 <em>Solution.</em>
-(Begin by writing the partial sum <m>s_n</m>, and use
-<m>\ln\!\left(\frac{k+2}{k+1}\right) = \ln(k+2) - \ln(k+1)</m> so that
-the sum telescopes.)
 </p>
 
 <sidebyside width="97%">
